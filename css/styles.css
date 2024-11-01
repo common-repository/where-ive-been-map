@@ -1,0 +1,26 @@
+#map_div{
+	border:1px dotted #eeeeee;
+	width:600px; 
+	height:400px
+}
+#admin_content div{
+	font-size: 12px;
+}
+.form_row{
+	text-align: right;
+	background-color: #cccccc;
+	margin-bottom: 1px;
+}
+.country_row{
+	text-align: right;
+	background-color: #eeeeee;
+	margin-bottom: 1px;
+}		
+.delete_link,.ui-widget-content a{
+	text-decoration:none;
+	color: :#ff0000;
+	font-size: 12px;
+}
+.delete_link:hover,.ui-widget-content a:hover{
+	text-decoration:underline;
+}	
